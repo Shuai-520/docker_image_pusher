@@ -1,7 +1,7 @@
 nginx
+nacos
 mysql
 redis
-nacos
 rabbit
 zookeeper
 opensearch-node1/2
