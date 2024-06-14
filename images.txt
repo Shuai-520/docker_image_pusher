@@ -1,4 +1,14 @@
 nginx
+mysql
+redis
+nacos
+rabbit
+zookeeper
+opensearch-node1/2
+kafka
+nacos-mysql
+prometheu
+grafana
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
