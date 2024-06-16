@@ -1,4 +1,4 @@
-nacos:1.4.1
+nacos
 alpine
 python:alpine3.19
 #支持私库
